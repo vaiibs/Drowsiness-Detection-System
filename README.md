@@ -4,6 +4,8 @@ This project implements a real-time drowsiness detection system using Python, Op
 
 This can be used in applications like driver fatigue monitoring and workplace safety systems.
 
+The 68-landmark detector data (.dat) file can be found (https://github.com/GuoQuanhao/68_points/blob/master/shape_predictor_68_face_landmarks.dat)
+
 How It Works
 
     Face Detection: Uses Dlib's pre-trained face detector to locate faces in the video frame.
