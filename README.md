@@ -13,9 +13,9 @@ How It Works
     Eye Aspect Ratio (EAR): Calculates the ratio of vertical to horizontal distances of eye 
                             landmarks to determine the eye's state.
     Status Classification:
-        Sleeping: Eyes closed for a prolonged duration.
-        Drowsy: Partially closed eyes detected consistently.
-        Active: Eyes open and blinking normally.
+                        Sleeping: Eyes closed for a prolonged duration.
+                        Drowsy: Partially closed eyes detected consistently.
+                        Active: Eyes open and blinking normally.
 
 
 Technologies Used
