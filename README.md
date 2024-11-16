@@ -25,4 +25,12 @@ Technologies Used
     Numpy: For efficient numerical computations.
     Imutils: For additional image processing utilities.
 
-  
+ ![image](https://github.com/user-attachments/assets/5d35ea85-785f-412c-82bc-3ea95e533c59)
+
+
+![image](https://github.com/user-attachments/assets/86c17663-550c-48af-af67-b81b4f421498)
+
+
+![image](https://github.com/user-attachments/assets/885169e1-31da-458d-b6a0-9cd22cc90a93)
+
+
