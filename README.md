@@ -7,7 +7,9 @@ This can be used in applications like driver fatigue monitoring and workplace sa
 How It Works
 
     Face Detection: Uses Dlib's pre-trained face detector to locate faces in the video frame.
+    
     Landmark Detection: Detects 68 facial landmarks to pinpoint eye positions.
+    
     Eye Aspect Ratio (EAR): Calculates the ratio of vertical to horizontal distances of eye 
                             landmarks to determine the eye's state.
     Status Classification:
